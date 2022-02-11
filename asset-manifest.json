@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.475814c4.css",
+    "main.js": "/static/js/main.da130f72.js",
+    "static/media/background-video.mp4": "/static/media/background-video.1fd3af3fdc9339d89c13.mp4",
+    "static/media/placeholder.png": "/static/media/placeholder.264a9e637713a953e4cc.png",
+    "static/media/makia-dark-text.png": "/static/media/makia-dark-text.cbe1913aecad9450c637.png",
+    "static/media/background.webp": "/static/media/background.d7e12e326d9917bbf802.webp",
+    "index.html": "/index.html",
+    "main.475814c4.css.map": "/static/css/main.475814c4.css.map",
+    "main.da130f72.js.map": "/static/js/main.da130f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475814c4.css",
+    "static/js/main.da130f72.js"
+  ]
+}
